@@ -1,0 +1,21 @@
+width 0~50 : 367 
+width 50~100 : 1193 
+width 100~150 : 1297 
+width 150~200 : 820 
+width 200~250 : 510 
+width 250~300 : 337 
+width 300~ : 370 
+
+height 0~50 : 0 
+height 50~100 : 0 
+height 100~150 : 4894 
+height 150~200 : 0 
+height 200~250 : 0 
+height 250~300 : 0 
+height 300~ : 0 
+
+imageCount : 9788 
+averImageHeight : 60.000000 
+averImageWidth : 76.753678 
+minWidth : 9  , maxWidth : 645  
+minHeight : 120  , maxHeight : 120  
